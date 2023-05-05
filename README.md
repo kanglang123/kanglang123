@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kanglang123
 - 👀 I’m interested in collaborative perception.
 - 🌱 I’m currently learning mechine learning.
-- 💞️ I’m looking for a gril friend.
 - 📫 How to reach me ,email me at 2015945124@qq.com.
 
 <!---
